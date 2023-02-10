@@ -1,5 +1,3 @@
-"# Stack-Overflow-Questions-Classification" 
-
 ## Stack Overflow Questions classification project
 
 Millions of programmers use Stack Overflow to get high quality answers to their programming questions every day.  We take quality very seriously, and have evolved an effective culture of moderation to safe-guard it.
