@@ -1,4 +1,4 @@
-## Stack Overflow Questions classification project
+# Stack Overflow Questions classification project
 
 Millions of programmers use Stack Overflow to get high quality answers to their programming questions every day.  We take quality very seriously, and have evolved an effective culture of moderation to safe-guard it.
 
@@ -14,6 +14,6 @@ Your goal is to build a classifier that predicts whether or not a question will 
 The data can be accessed from the Kaggle Competition
 https://www.kaggle.com/competitions/predict-closed-questions-on-stack-overflow
 
-# Models
+## Models
 Pytorch code implementations have been utilized for the project. For now SVM and Naive Bayes model has been used. More models and their corresponsing results woud be added shortly!
 
